@@ -1,0 +1,23 @@
+{
+    "name": "Dave",
+    "symbol": "",
+    "image": "2.png",
+    "collection": {
+        "name": "Sega Genesis Collection",
+        "family": "Owl Fam"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "9SyQoKiyDiah3xnDqYDvcuogqnsaJf68AbSEjSLzdVov",
+          "share": 100
+        }
+      ]
+    }
+  }
